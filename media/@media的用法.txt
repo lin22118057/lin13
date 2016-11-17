@@ -1,0 +1,15 @@
+﻿@media screen and (max-width: 480px) {
+     小於480像素的CSS放在這
+}
+
+@media screen and (min-width: 481px) and (max-width: 768px){
+     大於481像素 且 小於於768像素的CSS放在這
+}
+
+@media screen and (min-width: 769px) and (max-width: 1199px){
+     大於796像素 且 小於於1199像素的CSS放在這
+}
+
+@media screen and (min-width: 1200px) {
+     大於1200像素的CSS放在這
+}
